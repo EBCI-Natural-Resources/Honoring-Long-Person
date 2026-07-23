@@ -69,7 +69,7 @@ for _, row in zone_label_points.iterrows():
             html=f"""
             <div style="
                 font-family: Gadugi, Arial, sans-serif;
-                font-size:14px;
+                font-size:20px;
                 font-weight:bold;
                 color:black;
                 white-space: nowrap;    
