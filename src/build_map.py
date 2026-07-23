@@ -194,8 +194,9 @@ info_panel = """
 
         <p>
             <ul>
-                <li>Click the "Satellite" and "Standard" buttons in the top right corner to choose a basemap.</li>
-                <li>Toggle the boxes in the top right corner to select which layers appear.</li>
+                <li>Click on the stacked-layers icon in the top right corner.</li>
+                <li>Click the "Satellite" and "Standard" buttons to choose a basemap.</li>
+                <li>Toggle the boxes to select which layers appear.</li>
             </ul>
         </p>
     </div>
