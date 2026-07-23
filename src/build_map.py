@@ -364,7 +364,7 @@ folium.TileLayer(
 
 m.get_root().header.add_child(Element(css))
 
-folium.LayerControl(collapsed=False).add_to(m)
+folium.LayerControl(collapsed=True).add_to(m)
 
 m.get_root().html.add_child(Element(info_panel))
 
