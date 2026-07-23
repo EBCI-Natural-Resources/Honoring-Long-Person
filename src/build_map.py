@@ -20,7 +20,6 @@ ZONE_COLOR_MAP = {
 
 START_END_MAP = {
     "Peaches Squirrell Complex": "#FF0000",
-    "Old Cherokee Elementary School Site": "#000000"
 }
 
 def style_zones(feature):
@@ -118,7 +117,7 @@ for _, row in start_and_end.iterrows():
         icon=folium.DivIcon(
             html=f"""
             <div style="
-                font-size:30px;
+                font-size:40px;
                 color:{color};
                 text-align:center; 
             ">
