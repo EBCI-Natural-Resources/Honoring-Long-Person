@@ -197,6 +197,7 @@ info_panel = """
                 <li>Click on the stacked-layers icon in the top right corner.</li>
                 <li>Click the "Satellite" and "Standard" buttons to choose a basemap.</li>
                 <li>Toggle the boxes to select which layers appear.</li>
+                <li>Refresh the page to reset the map.</li>
             </ul>
         </p>
     </div>
