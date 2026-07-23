@@ -181,4 +181,4 @@ folium.TileLayer(
 
 folium.LayerControl(collapsed=False).add_to(m)
 
-m.save("../site/index.html")
+m.save("../docs/index.html")
