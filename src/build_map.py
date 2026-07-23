@@ -66,7 +66,7 @@ info_panel = """
 <style>
 #map-info-panel {
     position: fixed;
-    top: 100px;
+    bottom: 10px;
     left: 10px;
     z-index: 9999;
 
